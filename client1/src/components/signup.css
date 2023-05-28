@@ -1,0 +1,77 @@
+.background1{
+    background-color: #E6E7E8;
+    height: 940px;
+}
+
+.Aipic{
+    width:100% !important;
+}
+
+.microsoftimg{
+  width:7%;
+  margin-bottom: 2px;
+}
+
+.leftimg{
+   margin-top: 3rem;
+   margin-bottom: 9rem;
+}
+
+.rightform{
+    margin-top: 3rem;
+    background-color: #ffffff;
+    
+}
+
+.signinbutn{
+    background-color: #F78A05;
+    border-radius: 0%;
+    color: #ffffff;
+    border: 0px solid #ffffff;
+    font-size: 15px;
+}
+
+.Dbutn{
+    background-color: #ffffff;
+    border-radius: 0%;
+    color: #080808;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 10px 0 rgba(0,0,0,0.19);
+    background-color: white;
+  color: black;
+  border: 0px solid #ffffff;
+  transition-duration: 0.4s;
+  font-size: 15px;
+}
+
+.signinbutn:hover {
+    background-color: #555555;
+  color: white;
+}
+
+.signinbutn:active {
+  background-color: #555555 !important;
+  text-decoration-color: black;
+}
+
+.Dbutn:hover {
+    background-color: #555555;
+  color: white;
+}
+
+.Dbutn:active {
+  background-color: #555555 !important;
+  text-decoration-color: black;
+}
+
+.myname{
+    border-radius: 0%;
+    color: black;
+}
+
+.signinlink{
+    text-decoration:none !important;
+}
+
+.smallfont{
+    font-size: 13px;
+}
